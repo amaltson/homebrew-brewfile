@@ -72,3 +72,12 @@ cask 'tomighty'
 # Fonts
 tap 'homebrew/cask-fonts'
 cask 'font-fira-code'
+
+##################
+# Mac Store Apps #
+##################
+mas 'Blackmagic Disk Speed Test', id: 425264550
+mas 'DaisyDisk', id: 411643860
+mas 'Day One', id: 1055511498
+mas 'Tweetbot 2 For Twitter', id: 557168941
+mas 'Twitter', id: 409789998
