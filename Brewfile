@@ -50,4 +50,25 @@ brew 'libxml2'
 ##############
 # macOS Apps #
 ##############
+
+# Applications
 cask '1password'
+cask 'google-chrome'
+cask 'firefox'
+cask 'licecap'
+
+# Dev Tools
+cask 'docker'
+cask 'iterm2'
+cask 'visual-studio-code'
+
+# Productivity Tools
+cask 'alfred'
+cask 'notion'
+cask 'postman'
+cask 'spectacle'
+cask 'tomighty'
+
+# Fonts
+tap 'homebrew/cask-fonts'
+cask 'font-fira-code'
