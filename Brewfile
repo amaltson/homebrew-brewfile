@@ -23,6 +23,30 @@ brew 'tmux'
 brew 'youtube-dl'
 brew 'zsh'
 
+# Dev Tools
+brew 'dos2unix'
+brew 'git'
+brew 'gnupg'
+brew 'kubernetes-cli'
+brew 'neovim'
+brew 'vim'
+
+# Admin Tools
+brew 'gnu-sed'
+brew 'telnet'
+brew 'tree'
+brew 'watch'
+brew 'webp'
+brew 'wget'
+brew 'wireshark'
+brew 'xz'
+
+# Programming Languages
+brew 'asdf'
+
+# Dev Libraries
+brew 'libxml2'
+
 ##############
 # macOS Apps #
 ##############
