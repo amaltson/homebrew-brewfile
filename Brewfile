@@ -54,9 +54,11 @@ brew 'libxml2'
 # Applications
 cask '1password'
 cask 'adobe-creative-cloud'
+cask 'discord'
 cask 'google-chrome'
 cask 'firefox'
 cask 'licecap'
+cask 'signal'
 
 # Dev Tools
 cask 'docker'
@@ -82,6 +84,7 @@ mas 'Blackmagic Disk Speed Test', id: 425264550
 mas 'DaisyDisk', id: 411643860
 mas 'Day One', id: 1055511498
 mas 'Pocket', id: 568494494
+mas 'Slack', id: 803453959
 mas 'Tweetbot 2 For Twitter', id: 557168941
 mas 'Twitter', id: 409789998
 mas 'WhatsApp Desktop', id: 1147396723
