@@ -59,6 +59,7 @@ cask 'google-chrome'
 cask 'firefox'
 cask 'licecap'
 cask 'signal'
+cask 'scroll-reverser'
 
 # Dev Tools
 cask 'docker'
